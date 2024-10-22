@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+import sys
+
+
+def tonum(s)
+    try:
+        return int(
+    except:
+        return floa
+
+ans = 0
+for line in sys.stdin:
+    line = line.rst
+
+print(ans)
