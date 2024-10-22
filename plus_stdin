@@ -2,6 +2,7 @@
 import sys
 
 
+
 def tonum(s)
     try:
         return int(
@@ -10,6 +11,6 @@ def tonum(s)
 
 ans = 0
 for line in sys.stdin:
-        ans += tonum(line)
+        
 
 print(ans)
